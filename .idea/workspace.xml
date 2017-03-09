@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18c3a366-eccc-4164-b4b5-664c4617419a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news-post.html" afterPath="$PROJECT_DIR$/news-post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news.html" afterPath="$PROJECT_DIR$/news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-project.html" afterPath="$PROJECT_DIR$/single-project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-masonry.html" afterPath="$PROJECT_DIR$/works-masonry.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="138" column="6" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="138" selection-end-column="6" />
+            <state relative-caret-position="3706">
+              <caret line="218" column="90" lean-forward="false" selection-start-line="218" selection-start-column="90" selection-end-line="218" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -66,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="works-masonry.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="works-masonry.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works-masonry.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
@@ -104,13 +98,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/news-post.html" />
         <option value="$PROJECT_DIR$/single-project.html" />
         <option value="$PROJECT_DIR$/works-masonry.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -177,12 +171,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489034533361</updated>
-      <workItem from="1489034534806" duration="347000" />
+      <workItem from="1489034534806" duration="1138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347000" />
+    <option name="totallyTimeSpent" value="1138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -233,14 +227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="138" column="6" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="138" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -269,6 +255,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="140" column="6" lean-forward="false" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3706">
+          <caret line="218" column="90" lean-forward="false" selection-start-line="218" selection-start-column="90" selection-end-line="218" selection-end-column="90" />
           <folding />
         </state>
       </provider>
